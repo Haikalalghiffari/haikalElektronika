@@ -1,0 +1,33 @@
+
+.jumbotron {
+    padding-top: 11rem ;
+    padding-bottom: 8rem;
+    background-color: #ffffff;
+}
+
+#about {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background-color: #00ffff;
+}
+
+#Assignment {
+    padding-top: 8rem ;
+    padding-bottom: 8rem;
+    background-color: #ffffff;
+}
+
+#Contact {
+   
+    padding-bottom: 10rem;
+    background-color: #00ffff ;
+}
+
+#footer {
+   padding-top: 4rem;
+    background-color: #ffffff;
+}
+
+.section {
+    padding-top: 5rem;
+}
